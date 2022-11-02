@@ -24,7 +24,7 @@ page= data-scientist-jobs-'page number'
 Parsing to find attributes of job title, position, company, and so one.
 
 ##### Result
-![pic](D:\git\job_data_analysis\img\pic.png)
+![pic](https://github.com/xiemei1/job_data_analysis/blob/master/img/pic.png)
 
 ### Visualization
 - to do
